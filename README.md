@@ -1,4 +1,5 @@
 # ikhsanytc.github.io
 This is a portfolio used to describe myself
 <br>
-And you can open the website https://ikhsanytc.github.io
+and you can open the website for more details
+web : https://ikhsanytc.github.io
