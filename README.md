@@ -1,5 +1,5 @@
 # Portfolio ikhsan
-This is a portfolio used to describe myself
+This is a portfolio used to describe somebody
 <br>
 and you can open the website for more details
 <br>
